@@ -9,7 +9,7 @@ AlgoSquad is a dynamic space for **developers, tech enthusiasts, and learners** 
 - 🤖 **AI & Machine Learning** – Dive into cutting-edge AI and ML projects.
 - 💡 **Open Source Contributions** – Collaborate on open-source initiatives.
 - 🚀 **Software Development** – Build exciting projects together.
-- 🏆 **Hackathons & Competitions** – Participate and win coding challenges.
+
 
 ## 📌 How to Get Started
 1. **Star & Fork** 🌟 – Support us by starring our repositories and forking projects you like.
