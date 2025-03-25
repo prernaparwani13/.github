@@ -1,5 +1,5 @@
 
-![image](https://static1.srcdn.com/wordpress/wp-content/uploads/2017/05/Super-Smash-Bros.jpg)
+![image](https://wallpapers.com/images/hd/male-anime-characters-e5qgslpvg4gaf0rc.jpg)
 Welcome to **AlgoSquadCamp**! 🎯
 
 AlgoSquad is a dynamic space for **developers, tech enthusiasts, and learners** passionate about **algorithms, artificial intelligence, and software development**. Whether you're a beginner or an expert, this is the place to explore, collaborate, and innovate!
