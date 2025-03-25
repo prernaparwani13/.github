@@ -1,6 +1,6 @@
-
 ![image](https://wallpapers.com/images/hd/male-anime-characters-e5qgslpvg4gaf0rc.jpg)
-Welcome to **AlgoSquadCamp**! 🎯
+
+
 
 AlgoSquad is a dynamic space for **developers, tech enthusiasts, and learners** passionate about **algorithms, artificial intelligence, and software development**. Whether you're a beginner or an expert, this is the place to explore, collaborate, and innovate!
 
@@ -10,7 +10,6 @@ AlgoSquad is a dynamic space for **developers, tech enthusiasts, and learners** 
 - 💡 **Open Source Contributions** – Collaborate on open-source initiatives.
 - 🚀 **Software Development** – Build exciting projects together.
 
-
 ## 📌 How to Get Started
 1. **Star & Fork** 🌟 – Support us by starring our repositories and forking projects you like.
 2. **Join Discussions** 💬 – Engage in meaningful tech discussions on GitHub Discussions.
@@ -19,4 +18,10 @@ AlgoSquad is a dynamic space for **developers, tech enthusiasts, and learners** 
 ## 🤝 Contribution Guidelines
 We welcome contributions from everyone! Please read our [CONTRIBUTING.md](CONTRIBUTING.md) to get started.
 
-📌 **Join us and become part of the AlgoSquad revolution! 🚀**
+## 🔗 How to Join the Community
+Join our vibrant community and connect with like-minded developers:
+- 🗨️ **GitHub Discussions** – Participate in discussions and share your knowledge.
+- 💬 **Discord Community (Coming Soon!)** – Join our official **Discord server** to collaborate in real time.
+
+📌 **Be part of the AlgoSquad revolution today! 🚀**
+
