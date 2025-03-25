@@ -1,4 +1,4 @@
-# AlgoSquadCamp 🚀
+
 ![image](https://static1.srcdn.com/wordpress/wp-content/uploads/2017/05/Super-Smash-Bros.jpg)
 Welcome to **AlgoSquadCamp**! 🎯
 
