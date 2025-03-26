@@ -8,7 +8,7 @@
 
 
 
-AlgoSquad is a dynamic space for **developers, tech enthusiasts, and learners** passionate about **algorithms, artificial intelligence, and software development**. Whether you're a beginner or an expert, this is the place to explore, collaborate, and innovate!
+CommitFlicker  is a dynamic space for **developers, tech enthusiasts, and learners** passionate about **algorithms, artificial intelligence, and software development**. Whether you're a beginner or an expert, this is the place to explore, collaborate, and innovate!
 
 ## 🌟 What We Do
 - 🔍 **Algorithm Challenges** – Solve and discuss complex algorithmic problems.
@@ -29,5 +29,5 @@ Join our vibrant community and connect with like-minded developers:
 - 🗨️ **GitHub Discussions** – Participate in discussions and share your knowledge.
 - 💬 **Discord Community (Coming Soon!)** – Join our official **Discord server** to collaborate in real time.
 
-📌 **Be part of the AlgoSquad revolution today! 🚀**
+📌 **Be part of the CommitFlicker  revolution today! 🚀**
 
