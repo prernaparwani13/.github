@@ -1,4 +1,6 @@
-![DALL·E 2025-03-27 00 48 07 - A group of young, diverse people (both girls and boys) sitting and working on their projects in a modern, creative workspace  They are casually dresse](https://github.com/user-attachments/assets/03d14c7c-d91a-4a15-ae40-55a32c04ece3)
+
+<img src="https://github.com/user-attachments/assets/03d14c7c-d91a-4a15-ae40-55a32c04ece3" alt="Creative Workspace" width="1000" height="600">
+
 
 
 
