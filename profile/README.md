@@ -1,6 +1,7 @@
 <div align=center>
 
-<img src="https://github.com/user-attachments/assets/03d14c7c-d91a-4a15-ae40-55a32c04ece3" alt="Creative Workspace" width="800" height="600">
+![ChatGPT Image Apr 4, 2025, 01_10_21 AM](https://github.com/user-attachments/assets/9c278056-27da-4bf9-8c5e-9f871708199e)
+
   
 </div>
 
